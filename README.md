@@ -1,3 +1,5 @@
-# Library-Database
-It is a library database with storing, searching and so on functionality. I have to try using multiple data structures and compare the performance of different search methods. Use a larger dataset to be able to measure your results. Here is one example: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks
-<br /> <br /> Each book will have the variables isbn, title, genre, publication date, and author's first and last name. I plan to store each book as a linked list data structure with the given variables. I plan on storing our texts in the database using hashing algorithms. Given that our database will have a lot of entries, I think we will also need to employ a sorting algorithm. I am currently discussing whether insertion/mergesort/quicksort or a different sorting algorithm would be the most efficient to retrieve entries.
+# Library-Database with basic search function
+
+This project uses searching and sorting functionality for library datasets. 
+<br /> <br /> I have to use multiple data structures and compare the performance of different search methods and sorting methods. I also use a larger dataset to be able to measure results (booksdatabasenew2.csv).
+- must be built in Python.
